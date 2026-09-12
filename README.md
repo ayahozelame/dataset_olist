@@ -2,6 +2,7 @@
 
 **Analista de Dados:** Ayah Ozelame Al Khaldi  
 **Ferramentas:** SQLite, DBeaver, Power BI
+
 **Competência:** Setembro / 2026  
 
 
